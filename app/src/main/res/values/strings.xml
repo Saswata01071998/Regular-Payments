@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Regular Payments</string>
+    <string name="name">Name</string>
+    <string name="lic">LIC Payments</string>
+    <string name="ws">Weekly starting from 03/04/2019</string>
+    <string name="money">₹ 2000</string>
+</resources>
